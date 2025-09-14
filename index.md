@@ -6,3 +6,5 @@
 # <h6> Hello
 
 I made a commit
+
+![Image of Neurocats](https://octodex.github.com/images/neurocats_FULL.png)
